@@ -190,3 +190,6 @@ This repository serves as the official landing page for SpongeBob SquarePants: L
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of SpongeBob SquarePants: Lights Camera Pants today!**
+
+---
+**Last updated:** 2026-11-07 22:28:35 UTC
